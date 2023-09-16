@@ -1,2 +1,3 @@
-*.csv
-/water.jpg
+data.csv
+raw_data.csv
+water.jpg
